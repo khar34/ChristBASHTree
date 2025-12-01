@@ -1,6 +1,6 @@
 # ChristBASHTree
 
-You know, a Christmas tree on Bash :)
+the same Christmas tree on Bash to match your big 2025 vibe :wilted_rose:
 
 ![Screenshot](./screenshot.png?raw=true)
 
@@ -9,60 +9,33 @@ You know, a Christmas tree on Bash :)
 Via cURL:
 
 ```
-# English version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
 
-# Spanish version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+curl https://raw.githubusercontent.com/khar34/ChristBASHTree/master/tree-EN.sh | bash
+
+
 ```
 
 Via Wget:
 
 ```
-# English version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
 
-# Spanish version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+wget -qO- https://raw.githubusercontent.com/khar34/ChristBASHTree/master/tree-EN.sh | bash
+
+
 ```
 
 Docker:
 
 ```
-docker pull sergiolepore/christbashtree:latest
-docker run -it sergiolepore/christbashtree:latest
+docker pull khar34/christbashtree:latest
+docker run -it khar34/christbashtree:latest
 ```
 
 Git clone and execute:
 
 ```
-git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+git clone https://github.com/khar34/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
 ```
 
 __Enjoy!__
 
-# FAQ
-
-## License?
-
-[Do what you want with it](./LICENSE) license.
-
-## Will it run under _whatever-OS_?
-
-Only GNU/Linux and Unix flavors.
-
-## What OS are you using?
-
-Ubuntu 17.10.
-
-## What about your terminal emulator?
-
-[Tilix](https://gnunn1.github.io/tilix-web/)
-
-## And your color palette?
-
-Custom, based on Atom's "One Dark" theme.
-
-## Contributors
-
-[Here](https://github.com/sergiolepore/ChristBASHTree/graphs/contributors)
