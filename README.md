@@ -9,19 +9,13 @@ the same Christmas tree on Bash to match your big 2025 vibe :wilted_rose:
 Via cURL:
 
 ```
-
 curl https://raw.githubusercontent.com/khar34/ChristBASHTree/master/tree-EN.sh | bash
-
-
 ```
 
 Via Wget:
 
 ```
-
 wget -qO- https://raw.githubusercontent.com/khar34/ChristBASHTree/master/tree-EN.sh | bash
-
-
 ```
 
 Docker:
